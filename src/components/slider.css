@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.slider_image_container {
+  display: flex;
+}
+.slider_image {
+  height: 600px;
+}
